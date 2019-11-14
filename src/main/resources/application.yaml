@@ -1,0 +1,11 @@
+spring:
+  datasource: 
+      url: jdbc:mysql://23.96.28.51:3306/convenios
+      username: adminconvenios
+      password: Colombia2121*
+      driver-class-name: org.mariadb.jdbc.Driver
+jpa:
+    hibernate:
+      ddl-auto: create-drop
+      generate-ddl: true
+    show-sql: true
