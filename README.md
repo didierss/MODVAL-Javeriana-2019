@@ -1,6 +1,6 @@
 # MODVAL-Javeriana-2019
 Repositorio taller de validacion de arquitectura Universidad Javeriana Bogota Colombia 
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>README.md</title>
+<!DOCTYPE html><html><head><meta charset="utf-8">
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="AESOF__Modelado_y_Validacin_de_Arquitectura_0"></a>AESOF - Modelado y Validación de Arquitectura</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Profesor_German_Suarez_1"></a>Profesor: German Suarez</h2>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Estudiantes_2"></a>Estudiantes:</h2>
